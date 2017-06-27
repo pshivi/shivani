@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ECHO is on.
 Shivani
+=======
+Shivani first commit.
+>>>>>>> 76cb53518ad82d55d8cd024cdf5fca2161dd087a
