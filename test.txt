@@ -9,4 +9,8 @@ Hii this is test.txt file
 
 =======
 pull content
+<<<<<<< HEAD
 >>>>>>> 722e4335b22064fb89c4c936205b2c46f71a5695
+=======
+snother changes on content
+>>>>>>> 63ec6cd7445c4f9fe251f5c1689ece3cea081128
