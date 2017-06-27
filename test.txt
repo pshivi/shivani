@@ -13,4 +13,10 @@ pull content
 >>>>>>> 722e4335b22064fb89c4c936205b2c46f71a5695
 =======
 snother changes on content
+<<<<<<< HEAD
 >>>>>>> 63ec6cd7445c4f9fe251f5c1689ece3cea081128
+=======
+last changes on remote side
+>>>>>>> f022df880e8fc16183211030111b39e3ad703c8f
+
+hii new changes from local repository
