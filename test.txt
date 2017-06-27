@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-"Hii this is test.txt file" 
-hii this is seconfd changes on local repository
-=======
-Hii this is test.txt file 
-<<<<<<< HEAD
->>>>>>> 995210f235687a44c81f66b28e7aeaaecd22c094
-hello i m 
-
+shivani
