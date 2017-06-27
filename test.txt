@@ -6,24 +6,3 @@ Hii this is test.txt file
 <<<<<<< HEAD
 >>>>>>> 995210f235687a44c81f66b28e7aeaaecd22c094
 
-
-=======
-pull content
-<<<<<<< HEAD
->>>>>>> 722e4335b22064fb89c4c936205b2c46f71a5695
-=======
-snother changes on content
-<<<<<<< HEAD
->>>>>>> 63ec6cd7445c4f9fe251f5c1689ece3cea081128
-=======
-last changes on remote side
-<<<<<<< HEAD
->>>>>>> f022df880e8fc16183211030111b39e3ad703c8f
-
-hii new changes from local repository
-=======
-hedgdftgfgfghf
->>>>>>> 42cf4398884df0bae2667e553adb4ad59c72f410
-vcgvghvbh
-bjuibnj
-h	
