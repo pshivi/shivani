@@ -17,6 +17,13 @@ snother changes on content
 >>>>>>> 63ec6cd7445c4f9fe251f5c1689ece3cea081128
 =======
 last changes on remote side
+<<<<<<< HEAD
 >>>>>>> f022df880e8fc16183211030111b39e3ad703c8f
 
 hii new changes from local repository
+=======
+hedgdftgfgfghf
+>>>>>>> 42cf4398884df0bae2667e553adb4ad59c72f410
+vcgvghvbh
+bjuibnj
+h	
